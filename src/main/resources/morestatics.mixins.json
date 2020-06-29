@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "github.io.lucunji.morestatics.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinPistonBlock"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
